@@ -1,0 +1,6 @@
+module Pods_react_native_download {
+  umbrella header "Pods-react_native_download-umbrella.h"
+
+  export *
+  module * { export * }
+}
